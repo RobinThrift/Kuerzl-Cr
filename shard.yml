@@ -1,0 +1,15 @@
+name: ShortCry
+version: 0.1.0
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+  db:
+    github: crystal-lang/crystal-db
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+
+authors:
+  - Robin Thrift <services@robinthrift.com>
+
+license: MIT
